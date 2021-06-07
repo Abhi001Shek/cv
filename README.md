@@ -1,8 +1,7 @@
 # CV
 
 
-My concise portfolio serving as an online CV.
-Houses links to various profiles on other websites.
+My concise portfolio serving as an online CV using only HTML.
 
 &#11088; **Abhishek Anand**
 
